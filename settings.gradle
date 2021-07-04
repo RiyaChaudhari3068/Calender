@@ -1,0 +1,3 @@
+rootProject.name = "CalenderWidgets"
+include ':app'
+include ':CaLenderwidgets'
